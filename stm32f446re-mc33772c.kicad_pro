@@ -664,9 +664,14 @@
         "filename": "mc33772c.kicad_sch",
         "name": "MC33772C",
         "uuid": "d1dd5335-1fc0-4e41-b998-ab2aec4b6fde"
+      },
+      {
+        "filename": "power.kicad_sch",
+        "name": "POWER",
+        "uuid": "7455d46c-434c-42dd-9f3f-f89cdb6d3cc2"
       }
     ],
-    "used_designators": "P1,R1-3,SW1-2,#PWR1-11,C1-16,U1-4,Y1,J1-4",
+    "used_designators": "RT1,CR1,P1,R1-34,U1-5,C1-54,SW1-2,Y1,D1-4,#PWR1-58,TH1,J1-5",
     "variants": []
   },
   "sheets": [
@@ -677,6 +682,10 @@
     [
       "d1dd5335-1fc0-4e41-b998-ab2aec4b6fde",
       "MC33772C"
+    ],
+    [
+      "7455d46c-434c-42dd-9f3f-f89cdb6d3cc2",
+      "POWER"
     ]
   ],
   "text_variables": {},
