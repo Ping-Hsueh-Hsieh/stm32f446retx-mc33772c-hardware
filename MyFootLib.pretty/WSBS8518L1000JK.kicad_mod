@@ -1,0 +1,132 @@
+(footprint "WSBS8518L1000JK"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(tags "WSBS8518L1000JK ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9eb9705c-3a7e-4935-892e-76914bbe9300")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WSBS8518_VIS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "81f08a73-27f9-47bf-8205-36327520eb75")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43a42ea2-a66e-4cf6-bad2-9372c3af1beb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb69296f-4020-40f0-a691-d5eb8d696bdc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -42.5 -9)
+		(end 42.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "112f6f48-de87-4511-86c3-aa25381b6682")
+	)
+	(fp_rect
+		(start -42.5 -9)
+		(end 42.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ecd2d406-2495-4c8a-9293-625c20ef7a97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ed034b0f-3d7f-4deb-a92a-0d1be42ad279")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -23.5 0)
+		(size 37.8 18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b82e29de-f29c-4fb0-954a-e8994e85701b")
+	)
+	(pad "2" smd rect
+		(at 23.5 0)
+		(size 37.5 18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fd5229de-494f-4a7a-bf82-f5521c4cab26")
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "1ec09222-036c-47a6-bfae-93de07286115")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -4.6 -9) (xy 4.75 -9) (xy 4.75 9) (xy -4.6 9)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

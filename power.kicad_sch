@@ -8796,7 +8796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WSBS8518_VIS"
+		(property "Footprint" "MyFootLib:WSBS8518L1000JK"
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
