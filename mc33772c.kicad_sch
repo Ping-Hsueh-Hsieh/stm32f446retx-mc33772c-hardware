@@ -1428,6 +1428,12 @@
 		(uuid "4874fb9c-025a-4a17-a1a9-ed54360c8f4d")
 	)
 	(junction
+		(at 171.45 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d8a4853-cebe-4687-8a60-02b405d1a9e0")
+	)
+	(junction
 		(at 93.98 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1450,12 +1456,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df0028f3-7aaa-4a1e-aa69-4ddc874712b6")
-	)
-	(junction
-		(at 170.18 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f098c512-5539-439b-8155-9d64143f1863")
 	)
 	(junction
 		(at 121.92 71.12)
@@ -1511,7 +1511,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 46.99) (xy 135.89 58.42)
+			(xy 135.89 52.07) (xy 135.89 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1541,7 +1541,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 111.76) (xy 163.83 111.76)
+			(xy 163.83 111.76) (xy 171.45 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1601,16 +1601,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 111.76) (xy 177.8 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4daa0363-c410-4537-8ea8-542450ffcccb")
-	)
-	(wire
-		(pts
 			(xy 88.9 78.74) (xy 93.98 78.74)
 		)
 		(stroke
@@ -1628,6 +1618,16 @@
 			(type default)
 		)
 		(uuid "546064e1-a6d7-4756-b508-ab6d3a88eda1")
+	)
+	(wire
+		(pts
+			(xy 171.45 111.76) (xy 177.8 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b4d4db4-99f5-404a-b12f-0edfb193117f")
 	)
 	(wire
 		(pts
@@ -1721,7 +1721,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 111.76) (xy 170.18 124.46)
+			(xy 171.45 111.76) (xy 171.45 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1791,7 +1791,7 @@
 	)
 	(global_label "MC33772C_RESET"
 		(shape input)
-		(at 170.18 124.46 270)
+		(at 171.45 115.57 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1802,7 +1802,7 @@
 		)
 		(uuid "0dda5fe4-925f-48b1-9a7e-4533794f5f26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.18 144.6728 90)
+			(at 171.45 135.7828 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2723,7 +2723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 201.6252 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2734,7 +2734,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM21BR71C225KA64-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 200.66 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2745,7 +2745,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "GCM21BR71C225KA64L"
 			(at 200.66 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2804,7 +2804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 94.9452 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2826,7 +2826,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.47uF 16V 10% X7R AEC-Q200 0603"
 			(at 93.98 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2964,7 +2964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 176.022 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -2975,7 +2975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.tw/datasheet/3/508/1/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 177.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -2986,7 +2986,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RC0402FR-7D10KL"
 			(at 177.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3045,7 +3045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 107.6452 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3067,7 +3067,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.22uF 50V 10% X5R 0402"
 			(at 106.68 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3126,7 +3126,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 105.1052 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3148,7 +3148,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.01uF 50V 10% X7R 0402"
 			(at 104.14 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3586,7 +3586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 196.5452 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3597,7 +3597,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 195.58 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3608,7 +3608,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "GCM155R71H104KE02J"
 			(at 195.58 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4058,7 +4058,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 195.2752 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4069,7 +4069,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 194.31 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4080,7 +4080,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "GCM155R71H104KE02J"
 			(at 194.31 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4218,7 +4218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 112.7252 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4240,7 +4240,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1000PF 50V 5% C0G 0402"
 			(at 111.76 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4424,7 +4424,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 39.37 180)
+		(at 135.89 44.45 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4435,7 +4435,7 @@
 		(fields_autoplaced yes)
 		(uuid "df5e7648-b752-4c05-9d25-a33227acda08")
 		(property "Reference" "#PWR020"
-			(at 135.89 33.02 0)
+			(at 135.89 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4446,7 +4446,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 34.29 0)
+			(at 135.89 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4456,7 +4456,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 39.37 0)
+			(at 135.89 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4467,7 +4467,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 39.37 0)
+			(at 135.89 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4478,7 +4478,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 39.37 0)
+			(at 135.89 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4534,7 +4534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 159.512 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -4556,7 +4556,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES MF 10.0K 1/16W 1% AEC-Q200 0402"
 			(at 161.29 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4662,7 +4662,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 43.18 0)
+		(at 135.89 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4672,7 +4672,7 @@
 		(dnp no)
 		(uuid "ffe280cf-bd26-4c39-a2aa-2dec1756e272")
 		(property "Reference" "C21"
-			(at 126.746 41.656 0)
+			(at 126.746 46.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4683,7 +4683,7 @@
 			)
 		)
 		(property "Value" "0.047u"
-			(at 126.746 44.196 0)
+			(at 126.746 49.276 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4693,8 +4693,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 136.8552 46.99 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 136.8552 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4704,8 +4704,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 135.89 43.18 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+			(at 135.89 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4715,8 +4715,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 135.89 43.18 0)
+		(property "Description" "GRM155R71H473KE14D"
+			(at 135.89 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

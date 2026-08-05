@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/WSBS8518L1000JK/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "MyFootLib") (type "KiCad") (uri "${KIPRJMOD}/MyFootLib.pretty") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/WSBS8518L1000JK/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "MyFootLib") (type "KiCad") (uri "${KIPRJMOD}/MyFootLib.pretty") (options "") (descr ""))
 )
