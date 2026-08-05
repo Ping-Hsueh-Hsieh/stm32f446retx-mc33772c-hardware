@@ -2,3 +2,4 @@
 .history/
 *.bak
 *.zip
+**/report.txt
