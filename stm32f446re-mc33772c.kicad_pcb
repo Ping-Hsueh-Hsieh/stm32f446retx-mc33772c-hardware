@@ -24085,7 +24085,7 @@
 		)
 	)
 	(gr_text "BOOT0"
-		(at 238.5 58 0)
+		(at 218 62 0)
 		(layer "F.SilkS")
 		(uuid "227060e4-f5e9-4edc-9eac-52c08327fca0")
 		(effects
@@ -24097,7 +24097,7 @@
 		)
 	)
 	(gr_text "SWD"
-		(at 234 71.5 90)
+		(at 220.5 75.5 90)
 		(layer "F.SilkS")
 		(uuid "788e27b8-dd6d-4d54-a95f-aecf16bed13c")
 		(effects
