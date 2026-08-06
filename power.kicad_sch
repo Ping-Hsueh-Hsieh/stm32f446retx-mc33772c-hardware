@@ -11581,7 +11581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WSLP5931L1000FEA"
+		(property "Footprint" "MyFootLib:WSLP5931L1000FEA"
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
