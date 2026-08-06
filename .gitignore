@@ -3,3 +3,4 @@
 *.bak
 *.zip
 **/report.txt
+**/.DS_Store
