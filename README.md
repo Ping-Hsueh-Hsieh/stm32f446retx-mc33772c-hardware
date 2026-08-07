@@ -8,7 +8,9 @@
 # ST-LINK
 
 Test on NUCLEO-F446ZE with [configuration](./figs/how-to-connect-external-stlink-to-nucleo-f446ze.png) from [post](https://community.st.com/stm32-mcus-products-25/debugging-stm32f446ze-nucleo-swd-with-external-st-link-v2-155755?utm_source=chatgpt.com).
+```
 CN4.2 --> SWCLK
 CN4.4 --> SWDIO
 CN6.3 --> GND
+```
 with these pins connected, external ST-LINK V2 can be connected, debugging, even SWD with ITM.
