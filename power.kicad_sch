@@ -5897,6 +5897,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "0"
+			(at 50.8 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6b9bc48a-8760-42d1-99dc-124401c5df51")
 		)
@@ -7340,7 +7351,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7697,7 +7708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9581,7 +9592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9897,6 +9908,17 @@
 		)
 		(property "LCSC Part #" "C50603"
 			(at 26.67 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 26.67 21.59 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10481,7 +10503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10618,6 +10640,17 @@
 		)
 		(property "LCSC Part #" "C232531"
 			(at 71.12 43.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
+			(at 71.12 43.18 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11949,6 +11982,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 213.36 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5b5cd72-134c-4f42-b902-a3f2466e36d3")
 		)
@@ -12090,7 +12134,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13344,7 +13388,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13704,7 +13748,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 71.12 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14110,6 +14154,17 @@
 		)
 		(property "LCSC Part #" "C268481"
 			(at 110.49 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 110.49 38.1 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

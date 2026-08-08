@@ -7887,7 +7887,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 223.52 122.936 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9844,6 +9844,17 @@
 		)
 		(property "LCSC Part #" "C2937625"
 			(at 148.59 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 148.59 176.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11967,6 +11978,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "90"
+			(at 41.91 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aac42a99-463d-4135-912e-70338f48c248")
 		)
@@ -12051,6 +12073,17 @@
 		)
 		(property "LCSC Part #" "C2937625"
 			(at 127 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 127 27.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
