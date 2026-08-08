@@ -2754,7 +2754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0805KKX7R6BB225"
 			(at 200.66 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2776,7 +2776,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0805KKX7R6BB225"
+		(property "LCSC Part #" "C107127"
 			(at 200.66 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2845,7 +2845,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0603KRX7R7BB474"
 			(at 93.98 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2867,7 +2867,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0603KRX7R7BB474"
+		(property "LCSC Part #" "C106851"
 			(at 93.98 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3025,7 +3025,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/508/1/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 177.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3036,7 +3036,7 @@
 				)
 			)
 		)
-		(property "Description" "RC0402FR-7D10KL"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 177.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -3047,7 +3047,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 177.8 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3116,7 +3116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX5R9BB224"
 			(at 106.68 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3138,7 +3138,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX5R9BB224"
+		(property "LCSC Part #" "C5198287"
 			(at 106.68 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3207,7 +3207,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX7R9BB103"
 			(at 104.14 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3229,7 +3229,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX7R9BB103"
+		(property "LCSC Part #" "C60133"
 			(at 104.14 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3397,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery cell controller IC"
 			(at 146.558 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -3408,7 +3408,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C3682168"
 			(at 151.13 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3707,7 +3707,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX7R7BB104"
 			(at 195.58 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3729,7 +3729,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX7R7BB104"
+		(property "LCSC Part #" "C60474"
 			(at 195.58 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4239,7 +4239,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX7R7BB104"
 			(at 194.31 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4261,7 +4261,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX7R7BB104"
+		(property "LCSC Part #" "C60474"
 			(at 194.31 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4419,7 +4419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX7R9BB102"
 			(at 111.76 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4441,7 +4441,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX7R9BB102"
+		(property "LCSC Part #" "C106205"
 			(at 111.76 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4775,7 +4775,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 161.29 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4786,7 +4786,7 @@
 				)
 			)
 		)
-		(property "Description" "RES MF 10.0K 1/16W 1% AEC-Q200 0402"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 161.29 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4797,7 +4797,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 161.29 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4954,7 +4954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CC0402KRX7R7BB473"
 			(at 135.89 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4976,7 +4976,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "CC0402KRX7R7BB473"
+		(property "LCSC Part #" "C106260"
 			(at 135.89 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
