@@ -5887,6 +5887,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 50.8 189.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6b9bc48a-8760-42d1-99dc-124401c5df51")
 		)
@@ -5967,6 +5977,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 134.62 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "046d0dc4-6f1b-4066-8ca8-8d595409f964")
 		)
@@ -6027,7 +6047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 92.71 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6038,9 +6058,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 50V X7R 0402"
 			(at 92.71 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R9BB473"
+			(at 92.71 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6109,7 +6139,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6120,9 +6150,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 247.65 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 247.65 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6202,9 +6242,19 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.047uF 16V 10% X7R 0402"
+		(property "Description" "CAP CER 1.2nF 50V X7R 0402"
 			(at 267.97 100.33 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R9BB122"
+			(at 267.97 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6293,6 +6343,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 205.74 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b2a10f4-3810-4bd7-bc50-fb99d904c7c0")
 		)
@@ -6353,7 +6413,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 260.35 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6364,9 +6424,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 260.35 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 260.35 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6435,7 +6505,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 254 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6446,9 +6516,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 254 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 254 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6517,7 +6597,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 214.63 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6528,9 +6608,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 214.63 134.62 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 214.63 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6619,6 +6709,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 80.01 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "25e51d5a-47cc-47b0-93a7-093f497b2b41")
 		)
@@ -6679,7 +6779,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 229.87 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6690,9 +6790,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 229.87 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 229.87 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6816,6 +6926,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 160.02 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9f06577-92aa-4ed8-af04-8b17e5494c83")
 		)
@@ -6876,7 +6996,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6887,9 +7007,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 72.39 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6978,6 +7108,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 133.35 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3972d623-0563-4df0-a74c-395200bbe336")
 		)
@@ -7038,7 +7178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7049,9 +7189,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 170.18 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7120,7 +7270,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7131,9 +7281,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 153.67 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7202,7 +7362,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -7213,9 +7373,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 182.88 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7305,6 +7475,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 193.04 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "79199a16-3d5f-4255-b67f-a3525dc9c5d8")
 		)
@@ -7376,6 +7556,16 @@
 		(property "Description" "PAD"
 			(at 223.52 115.062 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 223.52 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7462,6 +7652,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 260.35 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f707e030-6c2a-493e-a8ef-b5fcf8683f90")
 		)
@@ -7519,7 +7719,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7530,9 +7730,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 166.37 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7621,6 +7831,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2f0397fa-2ebb-4eb4-bacf-6029283479fb")
 		)
@@ -7693,6 +7913,16 @@
 		(property "Description" "Resistor"
 			(at 134.62 85.09 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 134.62 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7781,6 +8011,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 132.08 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b5bd89ba-3cfd-47a6-911f-99d22f1a2a6f")
 		)
@@ -7840,7 +8080,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 214.63 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7851,9 +8091,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 214.63 149.86 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 214.63 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7942,6 +8192,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 144.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b921aa7d-4b68-4927-bc34-d8f1a8479551")
 		)
@@ -8002,7 +8262,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8013,9 +8273,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 93.98 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8105,6 +8375,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e9cdf2a4-f2c2-42c3-be29-539306b65046")
 		)
@@ -8175,6 +8455,16 @@
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 214.63 130.81 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 214.63 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8261,6 +8551,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 254 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23afd44c-e310-4237-9a02-d8c17b43fa45")
 		)
@@ -8339,6 +8639,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 160.02 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0427a408-c8d9-49ee-9a97-e8bad549bb92")
 		)
@@ -8408,6 +8718,16 @@
 		(property "Description" "Resistor"
 			(at 80.01 125.73 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8498,6 +8818,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 195.58 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4386277d-8135-472f-8cc2-a276d7d1bee2")
 		)
@@ -8567,6 +8897,16 @@
 		(property "Description" "Resistor"
 			(at 134.62 73.66 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 134.62 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8656,6 +8996,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 170.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "006463a7-620f-4b53-a2d6-0ab3b2728c2c")
 		)
@@ -8725,6 +9075,16 @@
 		(property "Description" "Resistor"
 			(at 132.08 146.05 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 132.08 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8805,6 +9165,16 @@
 		(property "Description" "Resistor"
 			(at 80.01 162.56 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8894,6 +9264,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 26.67 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da33ecf8-c048-4f1b-b3b4-8b7a4194006e")
 		)
@@ -8951,7 +9331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 234.95 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8962,9 +9342,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 234.95 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 234.95 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9033,7 +9423,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9044,9 +9434,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 116.84 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9136,6 +9536,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a7b7995e-83cb-4fb3-a571-af1d6f0ab786")
 		)
@@ -9193,7 +9603,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9204,9 +9614,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 148.59 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9296,6 +9716,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 223.52 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "38de7bba-9a1c-41df-861c-e10db1c12007")
 		)
@@ -9374,6 +9804,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4b801b1-e056-45b2-bc57-5d360672570f")
 		)
@@ -9444,9 +9884,19 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 30V SOD-128"
 			(at 26.67 21.59 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "PMEG3050EP,115"
+			(at 26.67 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9536,6 +9986,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 201.93 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e132ce52-9e35-4cb5-84a7-95a3ceb4987d")
 		)
@@ -9593,7 +10053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 193.04 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -9604,9 +10064,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 50V X7R 0402"
 			(at 193.04 134.62 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R9BB473"
+			(at 193.04 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9696,6 +10166,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 92.71 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04967368-7f19-4c93-a7a2-1af008ab5486")
 		)
@@ -9766,6 +10246,16 @@
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 247.65 50.8 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 247.65 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9851,6 +10341,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7d643be-45f1-468f-bb8d-43b82bb95850")
 		)
@@ -9911,7 +10411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 241.3 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9922,9 +10422,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 241.3 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 241.3 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9993,7 +10503,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10004,9 +10514,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 87.63 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10096,6 +10616,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 71.12 43.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "511f7fdb-8958-4eaa-b120-d901e25df580")
 		)
@@ -10159,7 +10689,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/76/2/GRM155R71H103KA88_01A.pdf"
+		(property "Datasheet" ""
 			(at 90.17 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10170,9 +10700,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H103KA88D"
+		(property "Description" "CAP CER 10nF 16V X7R 0402"
 			(at 90.17 135.89 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB103"
+			(at 90.17 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10262,6 +10802,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d7d51a3a-8753-4a40-8cef-3a8daae4253c")
 		)
@@ -10340,6 +10890,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 241.3 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e232a0ba-f81f-450a-98cc-959748e436e2")
 		)
@@ -10409,6 +10969,16 @@
 		(property "Description" "Resistor"
 			(at 133.35 135.89 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 133.35 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10498,6 +11068,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 252.73 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b16f7c20-4da2-4208-b1dc-666e3c77ee72")
 		)
@@ -10571,6 +11151,16 @@
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 50.8 189.23 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 50.8 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10655,6 +11245,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 205.74 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8cda579f-5a23-409f-aeb2-ca0a1f320c90")
 		)
@@ -10727,6 +11327,16 @@
 		(property "Description" "RK73B1JTTDD6R8J"
 			(at 104.14 34.29 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 104.14 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10865,6 +11475,16 @@
 				(justify bottom)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 252.73 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "48c23103-89bb-478c-b5d5-5db4b53c483d")
 		)
@@ -10945,6 +11565,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d51469fd-6765-4655-9c78-fe0f098beae1")
 		)
@@ -11004,7 +11634,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 193.04 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11015,9 +11645,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 50V X7R 0402"
 			(at 193.04 149.86 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R9BB473"
+			(at 193.04 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11106,6 +11746,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 134.62 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "845bda64-4e2c-4aee-9de4-3be07bc7c63f")
 		)
@@ -11178,6 +11828,16 @@
 		(property "Description" "Resistor"
 			(at 57.15 125.73 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 57.15 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11279,6 +11939,16 @@
 				(justify bottom)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 213.36 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5b5cd72-134c-4f42-b902-a3f2466e36d3")
 		)
@@ -11375,6 +12045,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 214.63 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e0deebe-d0b4-4344-9ba2-72f8fedb5a92")
 		)
@@ -11432,7 +12112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -11443,9 +12123,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 109.22 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11525,9 +12215,19 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 6.8uF 16V 10% X5R 0603"
+		(property "Description" "CAP CER 6.8uF 10V X5R 0603"
 			(at 222.25 142.24 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1608X5R1A685KT000E"
+			(at 222.25 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11616,6 +12316,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 80.01 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "980dfebb-4b17-4b55-83cf-2ed014bfb0b7")
 		)
@@ -11688,6 +12398,16 @@
 		(property "Description" "Resistor"
 			(at 57.15 179.07 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 57.15 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11777,6 +12497,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 110.49 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3419f3ee-1762-4161-baa6-999b54892f92")
 		)
@@ -11846,6 +12576,16 @@
 		(property "Description" "Resistor"
 			(at 133.35 125.73 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 133.35 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11935,6 +12675,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 148.59 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2f7c0040-c250-4ea3-85c8-187116590c43")
 		)
@@ -12013,6 +12763,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 153.67 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb9cffae-506e-4642-90a8-47f089e433f9")
 		)
@@ -12082,6 +12842,16 @@
 		(property "Description" "Resistor"
 			(at 80.01 144.78 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12171,6 +12941,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 186.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e0517535-3859-4d1c-b852-183ee943cf0d")
 		)
@@ -12227,7 +13007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 223.52 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12238,9 +13018,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM155R71H473KE14D"
+		(property "Description" "CAP CER 47nF 16V X7R 0402"
 			(at 223.52 46.99 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB473"
+			(at 223.52 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12321,6 +13111,16 @@
 		(property "Description" "Resistor"
 			(at 80.01 83.82 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12411,6 +13211,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 160.02 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f9a01f1a-4995-455f-86a4-3fa8057a3dbe")
 		)
@@ -12489,6 +13299,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 234.95 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de606488-5c1a-430b-b046-17e6074b58fa")
 		)
@@ -12546,7 +13366,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -12557,9 +13377,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 67.31 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12649,6 +13479,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 229.87 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6290ec76-aa84-4bd4-b569-505af3eb2446")
 		)
@@ -12720,6 +13560,16 @@
 		(property "Description" ""
 			(at 203.2 113.03 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 203.2 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12809,6 +13659,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe9ecb7f-b363-45c9-ab84-72ecf40bc5fd")
 		)
@@ -12866,7 +13726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 67.31 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12877,9 +13737,19 @@
 				)
 			)
 		)
-		(property "Description" "GCM155R71H104KE02J"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 67.31 129.54 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 67.31 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12960,6 +13830,16 @@
 		(property "Description" "Resistor"
 			(at 80.01 63.5 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 80.01 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13049,6 +13929,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 267.97 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5de3c08a-c25b-4984-bbc6-2ed7f7943a03")
 		)
@@ -13118,6 +14008,16 @@
 		(property "Description" "Resistor"
 			(at 260.35 93.98 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 260.35 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13208,6 +14108,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 110.49 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55a724ea-d95d-49dd-a963-0bb41118fe52")
 		)
@@ -13280,6 +14190,16 @@
 		(property "Description" "Resistor"
 			(at 57.15 63.5 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 57.15 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13361,6 +14281,16 @@
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 193.04 130.81 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 193.04 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

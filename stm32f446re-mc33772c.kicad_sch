@@ -7848,6 +7848,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 259.08 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d6823a1-77af-4d4b-b6ee-6226183af2dc")
 		)
@@ -7917,6 +7927,16 @@
 		(property "Description" "Positive, 1.5A 30V, Linear Regulator, Fixed Output 3.3V, TO-263"
 			(at 45.72 33.02 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 45.72 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8009,6 +8029,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 228.6 153.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "665f932b-d19c-4a8a-9fb2-180af52058df")
 		)
@@ -8063,7 +8093,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 218.44 127 0)
 			(hide yes)
 			(show_name no)
@@ -8074,9 +8104,19 @@
 				)
 			)
 		)
-		(property "Description" "CBOOT"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 218.44 127 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 218.44 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8167,6 +8207,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 114.3 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "14a8f22b-b28a-491d-8a12-d543e4e3788d")
 		)
@@ -8249,6 +8299,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 180.34 140.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8f32c8d6-23b6-452f-a0ab-ab808c62e54a")
 		)
@@ -8317,9 +8377,19 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10nF 16V  X5R 0603"
+		(property "Description" "CAP CER 10nF 16V X7R 0603"
 			(at 104.14 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB103"
+			(at 104.14 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8407,6 +8477,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 29.21 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "78b65c2b-8f64-4d38-994e-53bd9a4f149c")
 		)
@@ -8445,7 +8525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 68.58 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8467,7 +8547,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 64.77 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8478,9 +8558,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 64.77 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 64.77 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8527,7 +8617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 39.37 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8549,7 +8639,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 35.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8560,9 +8650,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 35.56 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 35.56 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8652,6 +8752,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 250.19 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "27d6f588-a2b1-430a-8e6f-8fe0b68519dc")
 		)
@@ -8721,6 +8831,16 @@
 		(property "Description" "RES MF 120 OHM 1/10W 1% 0603"
 			(at 123.19 74.93 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 123.19 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8810,6 +8930,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 130.81 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "770e9606-b49f-4181-bb5f-2879b0c0f7a0")
 		)
@@ -8889,6 +9019,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 24.13 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "faa95100-81fd-4c53-a153-6f635e18ce6e")
 		)
@@ -8959,6 +9099,16 @@
 		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, SOIC-8"
 			(at 171.45 36.83 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 171.45 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9067,6 +9217,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 133.35 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54f87071-4989-4e30-8488-36f2f03a6112")
 		)
@@ -9145,6 +9305,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 86.36 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82dd6239-c186-4963-ada5-4f9025092ac1")
 		)
@@ -9190,7 +9360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 268.9352 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9212,9 +9382,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 22uF 16V X5R 0603"
 			(at 267.97 66.04 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "HGC0603R5226M160NTHJ"
+			(at 267.97 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9305,6 +9485,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 184.15 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7497ce76-b14f-4c3b-a22c-7f214d464716")
 		)
@@ -9350,7 +9540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 244.8052 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9372,9 +9562,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 22uF 16V X5R 0603"
 			(at 243.84 66.04 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "HGC0603R5226M160NTHJ"
+			(at 243.84 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9464,6 +9664,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 163.83 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e031d5a9-5d6e-41b5-9cfd-1a44f983a09a")
 		)
@@ -9520,7 +9730,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM21BZ71C106KE15-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 58.42 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9531,9 +9741,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM21BZ71C106KE15L"
+		(property "Description" "CAP CER 10uF 16V X7R 0805"
 			(at 58.42 39.37 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0805KKX7R7BB106"
+			(at 58.42 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9622,6 +9842,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4216ce8a-276f-4b17-8430-ec01eb28966a")
 		)
@@ -9662,7 +9892,7 @@
 				)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 60.96 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9683,7 +9913,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 60.96 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9694,9 +9924,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 60.96 97.79 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 60.96 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9779,6 +10019,16 @@
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 148.59 176.53 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 148.59 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9871,6 +10121,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 100.33 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "17d708b9-c980-42f7-b6e5-f8c2da569a03")
 		)
@@ -9949,6 +10209,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 267.97 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af953439-5b01-418e-8af0-ac706168c8b4")
 		)
@@ -10017,9 +10287,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 18pF 50V NP0 0402"
 			(at 50.8 127 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402JRNPO9BN180"
+			(at 50.8 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10108,6 +10388,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 248.92 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe5f23a9-a95f-4c32-b57b-4bdc2db63c6d")
 		)
@@ -10179,7 +10469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
+		(property "Datasheet" ""
 			(at 162.56 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10190,9 +10480,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 50V X5R 0805"
 			(at 162.56 129.54 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0805KKX5R9BB475"
+			(at 162.56 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10283,6 +10583,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 215.9 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "02c9a37a-2193-4e1d-b344-debda72327f3")
 		)
@@ -10318,7 +10628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10.0u"
+		(property "Value" "10u"
 			(at 31.75 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10340,7 +10650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://calchip.com/wp-content/uploads/2026/04/GMC-Series-1.pdf"
+		(property "Datasheet" ""
 			(at 27.94 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10351,9 +10661,19 @@
 				)
 			)
 		)
-		(property "Description" "GMC21X7R106K16NT"
+		(property "Description" "CAP CER 10uF 16V X7R 0805"
 			(at 27.94 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0805KKX7R7BB106"
+			(at 27.94 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10444,6 +10764,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 228.6 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54d9ab18-ffdf-482e-9709-59acb7546d77")
 		)
@@ -10482,7 +10812,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 45.72 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10504,7 +10834,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 41.91 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10515,9 +10845,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 41.91 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 41.91 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10608,6 +10948,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 215.9 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "65442e98-857e-468b-a0eb-9802ce88d7a5")
 		)
@@ -10679,6 +11029,16 @@
 		(property "Description" "RFBB-AC0402FR-0719K1L"
 			(at 228.6 144.78 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 228.6 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10769,6 +11129,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 193.04 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2dd2848a-a3cc-465c-a9b5-9abeb04b2845")
 		)
@@ -10807,7 +11177,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 60.96 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10829,7 +11199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 57.15 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10840,9 +11210,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 57.15 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 57.15 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11084,6 +11464,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 222.25 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "03c874b0-7948-49ed-b20c-01d817e5185f")
 		)
@@ -11179,6 +11569,16 @@
 				(justify bottom)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 194.31 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "9ad9c278-db6b-4327-b9ba-016e3dd907bb")
 		)
@@ -11272,6 +11672,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 104.14 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85fa69b5-3a5f-4dc9-bd64-e0b20da446ef")
 		)
@@ -11307,7 +11717,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100.0n"
+		(property "Value" "100n"
 			(at 53.34 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11329,7 +11739,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+		(property "Datasheet" ""
 			(at 49.53 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11340,9 +11750,19 @@
 				)
 			)
 		)
-		(property "Description" "KGM15AR71C104KT"
+		(property "Description" "CAP CER 100nF 16V X7R 0603"
 			(at 49.53 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB104"
+			(at 49.53 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11480,6 +11900,16 @@
 				(justify bottom)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 198.12 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "13"
 			(uuid "10532d2f-c568-4a88-a60e-40cf471df4b7")
 		)
@@ -11594,6 +12024,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 171.45 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4c9e6b67-3f6f-4343-9611-1fee463c085f")
 		)
@@ -11650,7 +12090,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
+		(property "Datasheet" ""
 			(at 170.18 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11661,9 +12101,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 50V X5R 0805"
 			(at 170.18 129.54 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0805KKX5R9BB475"
+			(at 170.18 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11731,7 +12181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4819/TMK107B7105KA-T_SS.pdf"
+		(property "Datasheet" ""
 			(at 171.45 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11742,9 +12192,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R 25V"
+		(property "Description" "CAP CER 1uF 16V X7R 0603"
 			(at 171.45 64.77 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB105"
+			(at 171.45 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11835,6 +12295,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 41.91 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aac42a99-463d-4135-912e-70338f48c248")
 		)
@@ -11909,6 +12379,16 @@
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 127 27.94 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 127 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12001,6 +12481,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed4813ca-7a1c-4659-87a4-d5bd8813891b")
 		)
@@ -12057,7 +12547,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6490/3372_0402B104K500HI.pdf"
+		(property "Datasheet" ""
 			(at 157.48 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12068,9 +12558,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 157.48 129.54 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 157.48 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12160,6 +12660,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 24.13 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b58d27d3-f70f-45df-a760-af846e4ce767")
 		)
@@ -12217,7 +12727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" ""
 			(at 250.19 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12228,9 +12738,19 @@
 				)
 			)
 		)
-		(property "Description" "COUT- GRM32DR60J336ME19L"
+		(property "Description" "33uF X5R ±20% 16V 1206 Ceramic Capacitors RoHS"
 			(at 250.19 142.24 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "TCC1206X5R336M160HT"
+			(at 250.19 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12296,7 +12816,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012005009.pdf"
+		(property "Datasheet" ""
 			(at 237.49 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -12307,9 +12827,19 @@
 				)
 			)
 		)
-		(property "Description" "CFF- 885012005009"
+		(property "Description" "CAP CER 22pF 25V NP0 0402"
 			(at 237.49 140.97 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402JRNPO8BN220"
+			(at 237.49 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12377,7 +12907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/536/TMK105B7104KVHF_SS.pdf"
+		(property "Datasheet" ""
 			(at 163.83 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -12388,9 +12918,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R 25V"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 163.83 64.77 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402KRX7R7BB104"
+			(at 163.83 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12480,6 +13020,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 248.92 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe4beae3-62b0-4597-a2f2-e457f8b9c041")
 		)
@@ -12550,6 +13100,16 @@
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 27.94 85.09 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 27.94 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12636,6 +13196,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 157.48 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "37a10b30-95f7-4e77-8731-b8dac0dec949")
 		)
@@ -12708,6 +13278,16 @@
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 180 MHz, 1.8-3.6V, 50 GPIO, LQFP64"
 			(at 86.36 138.43 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 86.36 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12983,9 +13563,19 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 1uF 16V  X5R 0603"
+		(property "Description" "CAP CER 1uF 16V X7R 0603"
 			(at 114.3 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB105"
+			(at 114.3 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13076,6 +13666,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2db6214b-70ad-4ef2-9a78-8f010a83fdcf")
 		)
@@ -13144,7 +13744,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 18pF 50V NP0 0402"
+			(at 24.13 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0402JRNPO9BN180"
 			(at 24.13 127 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13825,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM21BZ71C106KE15-01A-EN_PDF_CERAMICCAPACITORSMD"
+		(property "Datasheet" ""
 			(at 33.02 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -13225,9 +13836,19 @@
 				)
 			)
 		)
-		(property "Description" "GRM21BZ71C106KE15L"
+		(property "Description" "CAP CER 10uF 16V X7R 0805"
 			(at 33.02 39.37 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0805KKX7R7BB106"
+			(at 33.02 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13309,6 +13930,16 @@
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 58.42 33.02 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 58.42 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13415,6 +14046,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 35.56 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "83a2869e-47c3-47e4-ba56-7eaa674ac5b0")
 		)
@@ -13506,6 +14147,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 242.57 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a65b35d3-0963-4b56-866a-8a895f6661b3")
 		)
@@ -13587,6 +14238,16 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 45.72 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab7748bf-0760-4fa6-9f92-35b37069301e")
 		)
@@ -13655,9 +14316,19 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 1uF 16V  X5R 0603"
+		(property "Description" "CAP CER 1uF 16V X7R 0603"
 			(at 130.81 78.74 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "CC0603KRX7R7BB105"
+			(at 130.81 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
