@@ -2847,12 +2847,6 @@
 		(uuid "167a8e06-e64d-4b12-89e7-7dd87344eac6")
 	)
 	(junction
-		(at 172.72 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d1bf2cb-5a12-4a08-bfff-9253a47a3f70")
-	)
-	(junction
 		(at 241.3 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3110,16 +3104,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 24.13) (xy 185.42 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0281d900-2f95-4902-9923-fe70b5a3d8b0")
-	)
-	(wire
-		(pts
 			(xy 60.96 144.78) (xy 67.31 144.78)
 		)
 		(stroke
@@ -3160,7 +3144,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 24.13) (xy 172.72 24.13)
+			(xy 160.02 24.13) (xy 185.42 24.13)
 		)
 		(stroke
 			(width 0)
@@ -11212,85 +11196,6 @@
 			(project "stm32f446re-mc33772c"
 				(path "/7455d46c-434c-42dd-9f3f-f89cdb6d3cc2"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MyySym:PAD")
-		(at 172.72 24.13 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a63a178a-6c94-4195-9619-94cf811966b4")
-		(property "Reference" "PAD2"
-			(at 175.26 22.8599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "pad"
-			(at 175.26 25.3999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MyFootLib:INPUT_PAD"
-			(at 177.8 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "PAD"
-			(at 172.72 26.162 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5cd60feb-43ad-4855-adf9-2974e7e7699c")
-		)
-		(instances
-			(project "stm32f446re-mc33772c"
-				(path "/7455d46c-434c-42dd-9f3f-f89cdb6d3cc2"
-					(reference "PAD2")
 					(unit 1)
 				)
 			)
