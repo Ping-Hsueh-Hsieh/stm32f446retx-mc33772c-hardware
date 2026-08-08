@@ -4,3 +4,5 @@
 *.zip
 **/report.txt
 **/.DS_Store
+/production
+fabrication-toolkit-options.json
