@@ -178,7 +178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -189,7 +189,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -200,7 +200,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -337,7 +337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "FRC0402F1270TS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -348,7 +348,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 127Ω ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -359,7 +359,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2929986"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -496,7 +496,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -507,7 +507,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -518,7 +518,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1627,7 +1627,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1638,7 +1638,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1649,7 +1649,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1786,7 +1786,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1797,7 +1797,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1808,7 +1808,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1945,7 +1945,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "1050170001"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1958,7 +1958,7 @@
 				)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
+		(property "Description" "CONN RCPT USB 2.0 Micro-B 5POS SMD R/A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1971,7 +1971,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C136000"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2878,7 +2878,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W120RL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2889,7 +2889,7 @@
 				)
 			)
 		)
-		(property "Description" "RES MF 120 OHM 250mW 1% 1206"
+		(property "Description" "RES 120Ω ±1% 500mW 1206"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2900,7 +2900,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C914848"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3185,7 +3185,7 @@
 				)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "8p"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "569dbf78-fc99-43e2-ad7c-9fafb106d5ad")
@@ -3196,7 +3196,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "CC0402JRNPO9BN180"
+		(property "Datasheet" "CC0402BRNPO9BN8R0"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3207,7 +3207,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 18pF 50V NP0 0402"
+		(property "Description" "CAP CER 8pF 50V NP0 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3218,7 +3218,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C106202"
+		(property "LCSC Part #" "C281765"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3355,7 +3355,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3366,7 +3366,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3377,7 +3377,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3503,7 +3503,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32F446RETx"
+		(property "Value" "STM32F446RET6"
 			(at 0 7.4 90)
 			(layer "F.Fab")
 			(uuid "cd16910a-f559-4139-a9c0-8c61fa4542c8")
@@ -3525,7 +3525,7 @@
 				)
 			)
 		)
-		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 180 MHz, 1.8-3.6V, 50 GPIO, LQFP64"
+		(property "Description" "ARM Cortex-M4 32b MCU+FPU, 225DMIPS, up to 512kB Flash/128+4KB RAM, USB OTG HS/FS, 17 TIMs, 3 ADCs, 20 comm. interfaces"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3536,7 +3536,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C69336"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5364,7 +5364,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5375,7 +5375,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5386,7 +5386,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5693,7 +5693,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Battery cell controller IC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5704,7 +5704,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C3682168"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7302,7 +7302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "AC0603FR-07120RL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7313,7 +7313,7 @@
 				)
 			)
 		)
-		(property "Description" "RES MF 120 OHM 1/10W 1% 0603"
+		(property "Description" "RES 120Ω ±1% 100mW 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7324,7 +7324,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C125925"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7780,7 +7780,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7791,7 +7791,7 @@
 				)
 			)
 		)
-		(property "Description" "RES MF 10.0K 1/16W 1% AEC-Q200 0402"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7802,7 +7802,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7939,7 +7939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7950,7 +7950,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7961,7 +7961,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8098,7 +8098,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/3/508/1/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8109,7 +8109,7 @@
 				)
 			)
 		)
-		(property "Description" "RC0402FR-7D10KL"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8120,7 +8120,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8725,7 +8725,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://abracon.com/AIGcrystals/ABM8AIG.pdf"
+		(property "Datasheet" "ABM8AIG-16.000MHZ-82Z-T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8738,7 +8738,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(property "Description" "CRYSTAL 16MHz 8pF SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8751,7 +8751,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C1669787"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9426,7 +9426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0805FR-071K5L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9437,7 +9437,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 1.5kΩ ±1% 125mW 0805"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9448,7 +9448,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C114555"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9595,7 +9595,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "36-V, 4-A/5-A Synchronous Step-Down DC/DC Converter With Low lQ"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9658,7 +9658,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C6890985"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10101,7 +10101,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.1mΩ ±1% 15W 5931"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10112,7 +10112,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2091034"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10442,7 +10442,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C6186"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10701,7 +10701,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10712,7 +10712,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10723,7 +10723,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11488,7 +11488,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11499,7 +11499,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11510,7 +11510,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11806,7 +11806,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11817,7 +11817,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11828,7 +11828,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13850,7 +13850,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13861,7 +13861,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10kΩ ±1% 62.5mW 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13872,7 +13872,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60490"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14031,7 +14031,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C30530"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14711,7 +14711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14722,7 +14722,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14733,7 +14733,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15029,7 +15029,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.koaspeer.com/pdfs/RK73B.pdf"
+		(property "Datasheet" "AC0603FR-076R8L"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15040,7 +15040,7 @@
 				)
 			)
 		)
-		(property "Description" "RK73B1JTTDD6R8J"
+		(property "Description" "RES 6.8Ω ±1% 100mW 0603"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15051,7 +15051,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C228038"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15188,7 +15188,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-072KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15199,7 +15199,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15210,7 +15210,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60488"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15506,7 +15506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15517,7 +15517,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15528,7 +15528,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15983,7 +15983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "FRC0402F1270TS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15994,7 +15994,7 @@
 				)
 			)
 		)
-		(property "Description" "RES MF 127 OHM 1/10W 1% AEC-Q200 0402"
+		(property "Description" "RES 127Ω ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16005,7 +16005,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2929986"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16142,7 +16142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16153,7 +16153,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16164,7 +16164,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16290,7 +16290,7 @@
 				)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "8p"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "db5a5d36-070d-490a-8cc6-22a63dafc849")
@@ -16301,7 +16301,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "CC0402JRNPO9BN180"
+		(property "Datasheet" "CC0402BRNPO9BN8R0"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16312,7 +16312,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 18pF 50V NP0 0402"
+		(property "Description" "CAP CER 8pF 50V NP0 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16323,7 +16323,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C106202"
+		(property "LCSC Part #" "C281765"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16617,7 +16617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "NTCG104BH103HT1"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16628,7 +16628,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "THERMISTOR NTC 10kΩ 4067K 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16691,7 +16691,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C531300"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17833,7 +17833,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073K3L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17844,7 +17844,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3.3kΩ ±1% 62.5mW 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17855,7 +17855,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137992"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18355,7 +18355,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C262918"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19013,7 +19013,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC0402FR-073KL"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19024,7 +19024,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 3kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19035,7 +19035,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137987"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19658,7 +19658,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-AC_51_ROHS_L"
+		(property "Datasheet" "RC0402FR-0719K1L"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -19670,7 +19670,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "RFBB-AC0402FR-0719K1L"
+		(property "Description" "RES 19.1kΩ ±1% 62.5mW 0402"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -19682,7 +19682,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C138042"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19988,7 +19988,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-0716RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20000,7 +20000,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 16Ω ±1% 250mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20012,7 +20012,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137382"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20483,7 +20483,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20495,7 +20495,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20507,7 +20507,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20813,7 +20813,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20825,7 +20825,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20837,7 +20837,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20978,7 +20978,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20990,7 +20990,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21002,7 +21002,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21308,7 +21308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21320,7 +21320,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21332,7 +21332,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21473,7 +21473,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21485,7 +21485,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21497,7 +21497,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21803,7 +21803,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+		(property "Datasheet" "RC0402FR-07100KL"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21815,7 +21815,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "RFBT-RC0402FR-07100KL"
+		(property "Description" "RES 100kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21827,7 +21827,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C60491"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22464,7 +22464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-0716RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -22476,7 +22476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 16Ω ±1% 250mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -22488,7 +22488,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137382"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23299,7 +23299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-0716RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -23311,7 +23311,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 16Ω ±1% 250mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -23323,7 +23323,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137382"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23464,7 +23464,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "RC1206FR-7W68RL"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -23476,7 +23476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 68Ω ±1% 500mW 1206"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -23488,7 +23488,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C137210"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24289,7 +24289,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+		(property "Datasheet" "RC0402FR-071KL"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -24301,7 +24301,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "RFF-RC0402FR-071KL"
+		(property "Description" "RES 1kΩ ±1% 62.5mW 0402"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -24313,7 +24313,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C106235"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
