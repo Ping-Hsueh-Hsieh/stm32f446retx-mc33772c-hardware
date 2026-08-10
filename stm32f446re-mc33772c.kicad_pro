@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "GBR/",
+      "plot": "export/GBR/",
       "specctra_dsn": "stm32f446re-mc33772c.dsn",
       "step": "",
       "vrml": ""
@@ -552,6 +552,12 @@
     "bom_settings": {
       "exclude_dnp": false,
       "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": true
+        },
         {
           "group_by": false,
           "label": "Reference",
@@ -610,7 +616,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -740,14 +746,38 @@
         },
         {
           "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
+          "label": "Critical Parameter",
+          "name": "Critical Parameter",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Critical Parameter",
-          "name": "Critical Parameter",
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "FT Rotation Offset",
+          "name": "FT Rotation Offset",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S3.3",
+          "name": "KLC_S3.3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.1",
+          "name": "KLC_S4.1",
           "show": false
         }
       ],
@@ -756,7 +786,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${ITEM_NUMBER}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
