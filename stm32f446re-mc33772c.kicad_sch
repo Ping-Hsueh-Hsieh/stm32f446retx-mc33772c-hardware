@@ -5,6 +5,129 @@
 	(uuid "4ebf70f9-a956-4907-84ed-044cbc82e056")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:USB_B_Micro"
 			(pin_names
 				(offset 1.016)
@@ -5279,6 +5402,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 93.98) (xy 107.95 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09638f47-f63f-4b06-9944-31d6963ec848")
+	)
+	(wire
+		(pts
 			(xy 172.72 123.19) (xy 172.72 125.73)
 		)
 		(stroke
@@ -5286,6 +5419,16 @@
 			(type default)
 		)
 		(uuid "0ac1ccdd-a490-4853-8154-b18dfb581e71")
+	)
+	(wire
+		(pts
+			(xy 107.95 93.98) (xy 107.95 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7054d2-6967-4cd8-8933-c1e9af69ffea")
 	)
 	(wire
 		(pts
@@ -5459,6 +5602,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 110.49) (xy 106.68 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22076b0e-167f-4fb1-bab3-41a6b70ae032")
+	)
+	(wire
+		(pts
 			(xy 64.77 97.79) (xy 66.04 97.79)
 		)
 		(stroke
@@ -5579,6 +5732,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 115.57) (xy 106.68 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36be4424-80be-4f94-9db0-c30178f0e08b")
+	)
+	(wire
+		(pts
 			(xy 185.42 34.29) (xy 185.42 36.83)
 		)
 		(stroke
@@ -5646,6 +5809,16 @@
 			(type default)
 		)
 		(uuid "3f950f44-8535-46b8-80a1-14c70bae5e48")
+	)
+	(wire
+		(pts
+			(xy 109.22 107.95) (xy 106.68 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "431d84fe-9c9f-4fb7-a35e-177bb2e8eedf")
 	)
 	(wire
 		(pts
@@ -5896,6 +6069,16 @@
 			(type default)
 		)
 		(uuid "6afc9732-7f93-4d49-abf2-6bcc4bd24460")
+	)
+	(wire
+		(pts
+			(xy 107.95 105.41) (xy 106.68 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9b5619-8e2f-4dfe-b81d-aea7a9338f95")
 	)
 	(wire
 		(pts
@@ -6399,6 +6582,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 113.03) (xy 106.68 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca1bb331-451a-4706-bd4e-e16bc8263953")
+	)
+	(wire
+		(pts
 			(xy 104.14 82.55) (xy 114.3 82.55)
 		)
 		(stroke
@@ -6639,7 +6832,7 @@
 	)
 	(global_label "SPI1_MISO"
 		(shape input)
-		(at 106.68 113.03 0)
+		(at 134.62 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6649,7 +6842,7 @@
 		)
 		(uuid "0df09332-148c-4f88-86ad-4b8555c61d3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.5228 113.03 0)
+			(at 147.4628 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6711,7 +6904,7 @@
 	)
 	(global_label "MC33772C_RESET"
 		(shape input)
-		(at 106.68 105.41 0)
+		(at 111.76 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6721,7 +6914,7 @@
 		)
 		(uuid "20442d2d-57b4-45ea-bcb1-68edcb27b368")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.4168 105.41 0)
+			(at 131.4968 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6831,7 +7024,7 @@
 	)
 	(global_label "SPI1_NSS"
 		(shape input)
-		(at 106.68 107.95 0)
+		(at 109.22 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6841,7 +7034,7 @@
 		)
 		(uuid "26825cf2-13d2-443d-b723-6380b78f67f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.6761 107.95 0)
+			(at 121.2161 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6975,7 +7168,7 @@
 	)
 	(global_label "SPI1_SCK"
 		(shape input)
-		(at 106.68 110.49 0)
+		(at 121.92 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6985,7 +7178,7 @@
 		)
 		(uuid "56ca04d5-87b4-47f4-bf55-9773019c2fce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.6761 110.49 0)
+			(at 133.9161 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7023,7 +7216,7 @@
 	)
 	(global_label "SPI1_MOSI"
 		(shape input)
-		(at 106.68 115.57 0)
+		(at 148.59 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7033,7 +7226,7 @@
 		)
 		(uuid "6030e926-c6c0-4f6f-833f-4b2cb3f033da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.5228 115.57 0)
+			(at 161.4328 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8191,6 +8384,85 @@
 			(project "stm32f446re-mc33772c"
 				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 134.62 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15bb5259-80c4-4191-8efe-c5856ce82d88")
+		(property "Reference" "TP3"
+			(at 137.16 108.4579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_SPI_MISO"
+			(at 137.16 110.9979 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 139.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 134.62 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3ec39f5d-2656-4f7b-ae48-1b975d302670")
+		)
+		(instances
+			(project "stm32f446re-mc33772c"
+				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -11351,6 +11623,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 148.59 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8106f5ad-d62c-4559-b524-c16fba00232a")
+		(property "Reference" "TP4"
+			(at 151.13 110.9979 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_SPI_MOSI"
+			(at 151.13 113.5379 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 153.67 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fbece201-b597-4065-a759-317dba72ce96")
+		)
+		(instances
+			(project "stm32f446re-mc33772c"
+				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 57.15 78.74 0)
 		(unit 1)
@@ -11874,6 +12225,85 @@
 			(project "stm32f446re-mc33772c"
 				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 121.92 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "971bc6f6-036d-4cf1-a498-9de98607ad6e")
+		(property "Reference" "TP2"
+			(at 124.46 105.9179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_SPI_SCK"
+			(at 124.46 108.4579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 127 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 121.92 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2553cb7e-141a-4589-8047-a41df79df986")
+		)
+		(instances
+			(project "stm32f446re-mc33772c"
+				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -13879,6 +14309,85 @@
 			(project "stm32f446re-mc33772c"
 				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 109.22 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd2e2125-7d10-427a-b408-5f7cfec69158")
+		(property "Reference" "TP1"
+			(at 111.76 103.3779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_SPI_NSS"
+			(at 111.76 105.9179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 114.3 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 109.22 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d045309d-fc97-4998-8525-7060e96270c2")
+		)
+		(instances
+			(project "stm32f446re-mc33772c"
+				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
