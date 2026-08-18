@@ -1,3 +1,10 @@
+# TODO
+
+- [ ] fill region: In1.Cu with GND
+- [ ] change 16MHz crystal to 8MHz, since 8MHz is cheaper and more available.
+
+# Sources
+
 - [step-by-step tutorial](https://github.com/gt-marine-robotics-group/kicad-tutorial)
 - [video](https://fedevel.com/blog/kicad-stm32-hardware-design-an-overview-in-20-minutes-phils-lab-15)
 - [kicad footprints](https://gitlab.com/kicad/libraries/kicad-footprints)
