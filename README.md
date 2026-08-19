@@ -21,3 +21,7 @@ CN4.4 --> SWDIO
 CN6.3 --> GND
 ```
 with these pins connected, external ST-LINK V2 can be connected, debugging, even SWD with ITM.
+
+# USB OTG FS
+
+[VBUS sensing](https://community.st.com/stm32-mcus-60/management-of-vbus-sensing-for-usb-device-design-93)
