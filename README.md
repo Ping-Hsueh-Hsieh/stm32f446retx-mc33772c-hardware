@@ -1,7 +1,9 @@
 # TODO
 
-- [ ] fill region: In1.Cu with GND
-- [ ] change 16MHz crystal to 8MHz, since 8MHz is cheaper and more available.
+- [x] fill region: In1.Cu with GND
+- [x] change 16MHz crystal to 8MHz, since 8MHz is cheaper and more available.
+- [x] USB OTG FS: VBUS senisng
+- [ ] stitching & fencing vias
 
 # Sources
 
