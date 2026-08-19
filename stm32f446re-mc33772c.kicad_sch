@@ -4931,6 +4931,12 @@
 		(uuid "467c9d61-c5cc-42c7-b593-71ed3c392a60")
 	)
 	(junction
+		(at 50.8 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "486bd2a5-6651-4341-b628-ccf0312ea640")
+	)
+	(junction
 		(at 104.14 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4983,12 +4989,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ef13844-346c-492a-9413-caa937c0a398")
-	)
-	(junction
-		(at 50.8 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "65b9b9ea-9655-4820-bac4-a507e2bb9db1")
 	)
 	(junction
 		(at 250.19 130.81)
@@ -5658,16 +5658,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 118.11) (xy 50.8 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f4257d9-7c4c-4513-a7b9-201343f527b6")
-	)
-	(wire
-		(pts
 			(xy 24.13 134.62) (xy 24.13 132.08)
 		)
 		(stroke
@@ -6085,6 +6075,16 @@
 			(type default)
 		)
 		(uuid "7c4f51c6-8d97-4031-b027-020668048620")
+	)
+	(wire
+		(pts
+			(xy 50.8 118.11) (xy 50.8 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e1e6b24-7619-4355-bc44-fa9e9ade5240")
 	)
 	(wire
 		(pts
@@ -13168,262 +13168,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 50.8 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "612e340c-8e0a-4915-964c-d88b12b0a3d6")
-		(property "Reference" "C3"
-			(at 54.61 125.7299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "8p"
-			(at 54.61 128.2699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 51.7652 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "CC0402BRNPO9BN8R0"
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 8pF 50V NP0 0402"
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C281765"
-			(at 50.8 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CC0402BRNPO9BN8R0"
-			(at 50.8 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IRP,40K (A)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ISAT,10% (A)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ISAT,30% (A)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "RDC max. (mΩ)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "fres (MHz)" ""
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "412db3d6-7548-40c0-a0ab-25b8f8bd9bae")
-		)
-		(pin "1"
-			(uuid "b2f0a14f-1bfe-4605-9e34-38241f2c34d5")
-		)
-		(instances
-			(project "stm32f446re-mc33772c"
-				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:USB_B_Micro")
 		(at 248.92 31.75 0)
 		(unit 1)
@@ -16285,6 +16029,263 @@
 			(project "stm32f446re-mc33772c"
 				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 50.8 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89580844-55c1-49ea-9fe1-666be2979fdc")
+		(property "Reference" "C3"
+			(at 54.61 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12p"
+			(at 54.61 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 51.7652 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "CC0402JRNPO9BN120"
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "CAP CER 12pF 50V NP0 0402"
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C106201"
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402JRNPO9BN120"
+			(at 50.8 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Critical Parameter" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "IRP,40K (A)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ISAT,10% (A)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ISAT,30% (A)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "L (µH)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer URL" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Match Code" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Technology" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Published Date" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "RDC max. (mΩ)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "fres (MHz)" ""
+			(at 50.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "01807ee6-1533-4e25-89f9-cf97915c6baa")
+		)
+		(pin "1"
+			(uuid "d3b75b36-2d37-4311-bd4b-616699717658")
+		)
+		(instances
+			(project "stm32f446re-mc33772c"
+				(path "/4ebf70f9-a956-4907-84ed-044cbc82e056"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -21087,7 +21088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8p"
+		(property "Value" "12p"
 			(at 27.94 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21109,7 +21110,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "CC0402BRNPO9BN8R0"
+		(property "Datasheet" "CC0402JRNPO9BN120"
 			(at 24.13 127 0)
 			(hide yes)
 			(show_name no)
@@ -21120,7 +21121,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 8pF 50V NP0 0402"
+		(property "Description" "CAP CER 12pF 50V NP0 0402"
 			(at 24.13 127 0)
 			(hide yes)
 			(show_name no)
@@ -21131,7 +21132,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C281765"
+		(property "LCSC Part #" "C106201"
 			(at 24.13 127 0)
 			(hide yes)
 			(show_name no)
@@ -21142,7 +21143,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402BRNPO9BN8R0"
+		(property "MPN" "CC0402JRNPO9BN120"
 			(at 24.13 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21695,7 +21696,7 @@
 				)
 			)
 		)
-		(property "Value" "16MHz"
+		(property "Value" "8MHz"
 			(at 39.116 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21705,7 +21706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 35.56 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21716,7 +21717,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "ABM8AIG-16.000MHZ-82Z-T"
+		(property "Datasheet" "X32258MOB4SI"
 			(at 35.56 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21727,7 +21728,7 @@
 				)
 			)
 		)
-		(property "Description" "CRYSTAL 16MHz 8pF SMD"
+		(property "Description" "CRYSTAL 8MHz 12pF SMD"
 			(at 35.56 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -21760,7 +21761,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1669787"
+		(property "LCSC Part #" "C2682775"
 			(at 35.56 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21770,7 +21771,7 @@
 				)
 			)
 		)
-		(property "MPN" "ABM8AIG-16.000MHZ-82Z-T"
+		(property "MPN" "X32258MOB4SI"
 			(at 35.56 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
