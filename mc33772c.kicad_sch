@@ -2601,6 +2601,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 140.97 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2611,6 +2612,7 @@
 		)
 		(property "MPN" ""
 			(at 140.97 58.42 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2700,6 +2702,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 175.26 74.93 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2710,6 +2713,7 @@
 		)
 		(property "MPN" ""
 			(at 175.26 74.93 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2798,6 +2802,7 @@
 		)
 		(property "LCSC Part #" "C107127"
 			(at 200.66 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2808,6 +2813,7 @@
 		)
 		(property "MPN" "CC0805KKX7R6BB225"
 			(at 200.66 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3053,6 +3059,7 @@
 		)
 		(property "LCSC Part #" "C106851"
 			(at 93.98 82.55 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3063,6 +3070,7 @@
 		)
 		(property "MPN" "CC0603KRX7R7BB474"
 			(at 93.98 82.55 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3308,6 +3316,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 104.14 116.84 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3318,6 +3327,7 @@
 		)
 		(property "MPN" ""
 			(at 104.14 116.84 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3407,6 +3417,7 @@
 		)
 		(property "LCSC Part #" "C60490"
 			(at 177.8 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3417,6 +3428,7 @@
 		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 177.8 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3662,6 +3674,7 @@
 		)
 		(property "LCSC Part #" "C5198287"
 			(at 106.68 60.96 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3672,6 +3685,7 @@
 		)
 		(property "MPN" "CC0402KRX5R9BB224"
 			(at 106.68 60.96 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3917,6 +3931,7 @@
 		)
 		(property "LCSC Part #" "C60133"
 			(at 104.14 113.03 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3927,6 +3942,7 @@
 		)
 		(property "MPN" "CC0402KRX7R9BB103"
 			(at 104.14 113.03 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4172,6 +4188,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 106.68 64.77 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4182,6 +4199,7 @@
 		)
 		(property "MPN" ""
 			(at 106.68 64.77 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4270,6 +4288,7 @@
 		)
 		(property "LCSC Part #" "C3682168"
 			(at 151.13 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4280,6 +4299,7 @@
 		)
 		(property "MPN" "MC33772CTP1AE"
 			(at 151.13 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4667,6 +4687,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 175.26 85.09 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4677,6 +4698,7 @@
 		)
 		(property "MPN" ""
 			(at 175.26 85.09 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4765,6 +4787,7 @@
 		)
 		(property "LCSC Part #" "C60474"
 			(at 195.58 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4775,6 +4798,7 @@
 		)
 		(property "MPN" "CC0402KRX7R7BB104"
 			(at 195.58 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5021,6 +5045,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 175.26 82.55 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5031,6 +5056,7 @@
 		)
 		(property "MPN" ""
 			(at 175.26 82.55 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5119,6 +5145,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 133.35 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5129,6 +5156,7 @@
 		)
 		(property "MPN" ""
 			(at 133.35 58.42 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5217,6 +5245,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 194.31 100.33 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5227,6 +5256,7 @@
 		)
 		(property "MPN" ""
 			(at 194.31 100.33 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5315,6 +5345,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 149.86 90.17 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5325,6 +5356,7 @@
 		)
 		(property "MPN" ""
 			(at 149.86 90.17 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5413,6 +5445,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 138.43 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5423,6 +5456,7 @@
 		)
 		(property "MPN" ""
 			(at 138.43 58.42 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5511,6 +5545,7 @@
 		)
 		(property "LCSC Part #" "C60474"
 			(at 194.31 104.14 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5521,6 +5556,7 @@
 		)
 		(property "MPN" "CC0402KRX7R7BB104"
 			(at 194.31 104.14 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5767,6 +5803,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 121.92 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5777,6 +5814,7 @@
 		)
 		(property "MPN" ""
 			(at 121.92 83.82 270)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5865,6 +5903,7 @@
 		)
 		(property "LCSC Part #" "C106205"
 			(at 111.76 60.96 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5875,6 +5914,7 @@
 		)
 		(property "MPN" "CC0402KRX7R9BB102"
 			(at 111.76 60.96 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6120,6 +6160,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 93.98 86.36 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6130,6 +6171,7 @@
 		)
 		(property "MPN" ""
 			(at 93.98 86.36 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6218,6 +6260,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 177.8 119.38 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6228,6 +6271,7 @@
 		)
 		(property "MPN" ""
 			(at 177.8 119.38 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6316,6 +6360,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 135.89 44.45 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6326,6 +6371,7 @@
 		)
 		(property "MPN" ""
 			(at 135.89 44.45 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6415,6 +6461,7 @@
 		)
 		(property "LCSC Part #" "C60490"
 			(at 161.29 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6425,6 +6472,7 @@
 		)
 		(property "MPN" "RC0402FR-0710KL"
 			(at 161.29 115.57 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6670,6 +6718,7 @@
 		)
 		(property "LCSC Part #" ""
 			(at 198.12 78.74 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6680,6 +6729,7 @@
 		)
 		(property "MPN" ""
 			(at 198.12 78.74 180)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6768,6 +6818,7 @@
 		)
 		(property "LCSC Part #" "C106260"
 			(at 135.89 48.26 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6778,6 +6829,7 @@
 		)
 		(property "MPN" "CC0402KRX7R7BB473"
 			(at 135.89 48.26 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

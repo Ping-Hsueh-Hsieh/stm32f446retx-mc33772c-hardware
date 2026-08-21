@@ -4,7 +4,7 @@
 - [x] change 16MHz crystal to 8MHz, since 8MHz is cheaper and more available.
 - [x] USB OTG FS: VBUS senisng
 - [ ] stitching & fencing vias
-- [ ] shrink the board
+- [x] shrink the board
 
 # Sources
 
